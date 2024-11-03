@@ -1,0 +1,1 @@
+compress -r temp\*.* Disco1

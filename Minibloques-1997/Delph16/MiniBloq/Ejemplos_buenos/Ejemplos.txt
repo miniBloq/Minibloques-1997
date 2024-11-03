@@ -1,0 +1,15 @@
+Los ejemplos hacen las siguientes acciones:
+
+s1_o_s2.mbq: Enciende los 3 motores hasta que el sensor 1 ó el sensor 2
+	     se activen.
+
+s1_y_s2.mbq: Enciende los 3 motores hasta que el sensor 1 y el sensor 2
+	     se activen.
+
+S13os24.mbq: Enciende los 3 motores hasta que el sensor 1 y el sensor 3
+	     se activen (sensores impares) o el sensor 2 y el 4 se 
+	     activen (sensores pares). Si se activan un sensor par y uno
+	     impar, no ocurre nada.
+
+Cont_ch.mbq: Enciende un motor y cuenta la cantidad de veces que se 
+	     activó el sensor 1. Luego de 4 choques, apaga el motor.

@@ -1,0 +1,14 @@
+Microsoft (R) File Compression Utility  Version 2.00
+Copyright (C) Microsoft Corp. 1990-1992.  All rights reserved.
+
+Compresses one or more files.
+
+COMPRESS [-r] Source Destination
+COMPRESS -r Source [Destination]
+
+  -r          Automatically rename compressed files.
+  Source      Source file specification. Source may be multiple file
+              specifications. Wildcards may be used.
+  Destination Destination file / path specification. Destination may be a
+              directory. If Source is multiple files and -r is not specified,
+              Destination must be a directory. Wildcards may not be used.
