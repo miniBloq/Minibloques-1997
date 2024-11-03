@@ -1,2 +1,2 @@
 # Minibloques-1997
-Graphical programming environment for Simple Informática robots.
+Released in 1997, Minibloques was a araphical programming environment for Simple Informática's robots.
